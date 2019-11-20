@@ -1,0 +1,52 @@
+.warna{
+    background-color: red;
+}
+.logo{
+    width: 200px;
+}
+.header{
+    text-align: right;
+    background-color: red;
+    height: 80px;
+    
+}
+.tonggler{
+    background-color: transparent;
+    
+}
+.sliderimage{
+    margin-top: 50px;
+    
+}
+.slider{
+    background-color: rgb(186,3,2);
+    height: 400px;
+    margin-top: -50px;
+}
+.slide{
+    padding-top: 30px;
+}
+.notive{
+    margin-top: 20px;
+    
+}
+.danger{
+    background-color: rgb(186,3,2)!important;
+}
+.slide{
+    margin-bottom: 20px;
+}
+.wrapper {
+    width:950px;
+    min-height: 700px;
+    text-align: center;
+    color:white;
+    overflow:visible;
+    margin: auto;
+}
+@media only screen and (max-width: 480px){
+    .slider{
+        background-color: rgb(186,3,2);
+        height: 90px;
+    }
+}
